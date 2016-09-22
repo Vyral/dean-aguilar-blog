@@ -1,4 +1,4 @@
-title: Andross
+title: Dean Aguilar Group Real Estate Video Blog
 description: There is no such thing as a sad unicorn.
 
 #for the navbar links.
@@ -7,19 +7,19 @@ custom_links:
     url: http://www.sflivingspace.com/luxury-properties/
 
 client:
-  market:
-  name: andross
-  brand: 'nintendo'
+  market: San Diego County
+  name: Dean Aguilar
+  brand: Dean Aguilar Group
   brokerage: '#'
-  address: 123 fake st.
-  phone: 402-402-4002
-  email: sample@email.com
+  address: 6436 Mt Acre way<br>San Diego, 92111
+  phone: (619) 550-7892
+  email: dean@deanaguilargroup.com
   #Dont Include http://
-  url: getvyral.com
+  url: www.deanaguilargroup.com
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: '/homevalue/'
+  homeeval: 'http://www.chulahomevalue.com/'
   homeeval_txt: Home Evaluation
-  homesearch: /homesearch/
+  homesearch: 'http://www.viewsandiegoareahomes.com'
   homesearch_txt: Home Search
   VR_form:
 
@@ -56,13 +56,14 @@ audit_header: false
 
 #image settings
 images:
-  hero_image_path: http://0.design-milk.com/images/2015/12/iso_rynth03-pattern.jpg
-  hero_logo_path: http://design.ubuntu.com/wp-content/uploads/logo-ubuntu_st_no%C2%AE-white-hex.png
-  hero_background_hex: "#123456"
-  client_headshot_path: http://i.imgur.com/RQeCxbx.png
+  hero_image_path: /img/blog_background.jpg
+  hero_logo_path: /img/Dean-logo.png
+  hero_text: Real Estate Video Blog
+  hero_background_hex: "#4F7588"
+  client_headshot_path: /img/dean-square.png
 
 #colors
-brand_hex: '#123456'
+brand_hex: '#4F7588'
 theme_text: '#353535'
 theme-color: '#ffffff'
 fontcolor_hex: "#353535"
