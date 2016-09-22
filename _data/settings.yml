@@ -3,8 +3,8 @@ description: There is no such thing as a sad unicorn.
 
 #for the navbar links.
 custom_links:
-  - title: Luxury Properties
-    url: http://www.sflivingspace.com/luxury-properties/
+  # - title: Luxury Properties
+  #   url: http://www.sflivingspace.com/luxury-properties/
 
 client:
   market: San Diego County
