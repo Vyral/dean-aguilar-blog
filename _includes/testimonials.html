@@ -1,5 +1,5 @@
 <div class="testimonial-area">
-		{% if site.data.testimonials.testimonials == true %}
+		{% if site.data.testimonials.show_testimonials_section == true %}
 			<div class="testimonial-container">
 				<div class="testimonial-navigation">
 		  		<a class="testimonial-btn prev"><i class="fa fa-arrow-left"></i></a>
@@ -13,9 +13,9 @@
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>'}}
 		            {{item.name | prepend: '<p class="testimonial-attribute"> - ' | append: '</p>'}}
 								<div class="testimonial-audio">
-									{% if item.audio != '#' %}
+									{% if item.audio_URL != '#' %}
 										<p>Listen to the whole Interview:</p>
-										<audio class="jp-player-simple" src="{{item.audio}}" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
+										<audio class="jp-player-simple" src="{{item.audio_URL}}" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
 									{% endif %}
 									<i class="fa fa-quote-right fa-2x"></i>
 								</div>
