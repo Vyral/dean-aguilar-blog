@@ -1,4 +1,4 @@
-testimonials: '#'
-  # - quote: '"Durwin was very helpful and informative about the availability of homes we were looking at in our price range. He ended up finding us our current home through a private sale. This displayed his diligence as an agent in finding us the desired home through alternative means besides public listings."'
-  #   name: 'ANDREW PHU (BUYER)'
-  #   audio: https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3
+testimonials:
+  - quote: '#'
+    name: '#'
+    audio: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
