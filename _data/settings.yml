@@ -1,34 +1,31 @@
 title: Dean Aguilar Group Real Estate Video Blog
 description: There is no such thing as a sad unicorn.
 
-about_markdow: 'This top 1 % real estate team has over 45 years of family experience in the San Diego market. The Dean Aguilar Group is a high performing team comprised of San Diegans—born, bred, and raised. From North County’s scenic hills and beautiful beaches to the South Bay’s cultural diversity, the Dean Aguilar Group knows this county and wants to share it with you.
+custom_links:
+  - title: '#'
+    url: '#'
+
+about_markdown:  'This top 1 % real estate team has over 45 years of family experience in the San Diego market. The Dean Aguilar Group is a high performing team comprised of San Diegans—born, bred, and raised. From North County’s scenic hills and beautiful beaches to the South Bay’s cultural diversity, the Dean Aguilar Group knows this county and wants to share it with you.
 
 The team’s ultimate vision is to allow clients to experience properties at their own convenience with up-to-the-minute accuracy while uniquely understanding and appreciating their clients’ real estate needs.
 
 Given the innumerable moving parts in a real estate transaction, clients can depend on the Dean Aguilar Group to do all of the legwork. Their vetted service partners will ensure that clients’ listings shine, inspections are honest, and settlements are smooth.'
-#for the navbar links.
-custom_links:
-  # - title: Luxury Properties
-  #   url: http://www.sflivingspace.com/luxury-properties/
 
 client:
   market: San Diego County
   name: Dean Aguilar
   brand: Dean Aguilar Group
   brokerage: '#'
-  address: 6436 Mt Acre way<br>San Diego, 92111
+  address: '6436 Mt Acre way<br>San Diego, 92111'
   phone: (619) 550-7892
   email: dean@deanaguilargroup.com
-  #Dont Include http://
   url: www.deanaguilargroup.com
-  # if forms put '/homevalue/' or '/homesearch/'
   homeeval: 'http://www.chulahomevalue.com/'
   homeeval_txt: Home Evaluation
   homesearch: 'http://www.viewsandiegoareahomes.com'
   homesearch_txt: Home Search
   VR_form:
 
-# social links
 socials:
   facebook: 'http://facebook.com'
   linkedin: 'http://linked.com'
@@ -42,9 +39,7 @@ socials:
   yelp: 'http://yelp.com'
   podcast: 'http://#.com'
 
-#podcast settings
 podcast:
-  # Something Real Estate Podcast
   title: Dean Aguilar Group Real Estate Podcast
   categories:
     - category: 'News &amp; Politics'
@@ -53,26 +48,17 @@ podcast:
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dean Aguilar Group - your professional San Diego Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: Dean Aguilar
-
-#layout options
-# if we want review buttons --
 review_sm_icons: false
 audit_header: false
-
-#image settings
 images:
   hero_image_path: /img/blog_background.jpg
   hero_logo_path: /img/Dean-logo.png
   hero_text: Real Estate Video Blog
-  hero_background_hex: "#4F7588"
+  hero_background_hex: '#4f7588'
   client_headshot_path: /img/dean-square.png
 
-#colors
-brand_hex: '#4F7588'
+brand_hex: '#4f7588'
 theme_text: '#353535'
 theme_color: '#ffffff'
-fontcolor_hex: "#353535"
+fontcolor_hex: '#353535'
 testimonial_fontcolor: '#fff'
-
-#make testimonial container match brand color
-testimonial-container-brand_color: true
