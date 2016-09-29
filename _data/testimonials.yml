@@ -1,5 +1,5 @@
 show_testimonials_section: true
 testimonial:
-  - quote: 'Hello'
-    name: 'Brent'
+  - quote: Hello World
+    name: Brent
     audio_URL: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
