@@ -1,6 +1,8 @@
 title: Dean Aguilar Group Real Estate Video Blog
 description: There is no such thing as a sad unicorn.
+
 custom_links:
+  show_custom_links: false
   - title: '#'
     url: '#'
 about_markdown: >-
@@ -37,17 +39,17 @@ client:
   second_CTA_URL: 'http://www.viewsandiegoareahomes.com'
   VR_form:
 socials:
-  facebook: 'http://facebook.com'
-  linkedin: 'http://linked.com'
-  gplus: 'http://plus.google.com'
-  youtube: 'http://youtube.com'
-  twitter: 'http://twitter.com'
-  instagram: '#'
-  pinterest: '#'
-  zillow: 'http://zillow.com'
-  trulia: 'http://trulia.com'
-  yelp: 'http://yelp.com'
-  podcast: 'http://#.com'
+  facebook_url: 'http://facebook.com'
+  linkedin_url: 'http://linked.com'
+  gplus_url: 'http://plus.google.com'
+  youtube_url: 'http://youtube.com'
+  twitter_url: 'http://twitter.com'
+  instagram_url: '#'
+  pinterest_url: '#'
+  zillow_url: 'http://zillow.com'
+  trulia_url: 'http://trulia.com'
+  yelp_url: 'http://yelp.com'
+  podcast_url: ''
 podcast:
   title: Dean Aguilar Group Real Estate Podcast
   categories:
