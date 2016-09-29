@@ -20,10 +20,10 @@ client:
   phone: (619) 550-7892
   email: dean@deanaguilargroup.com
   url: www.deanaguilargroup.com
-  CTA_1: 'http://www.chulahomevalue.com/'
-  CTA_1_txt: Home Evaluation
-  CTA_2: 'http://www.viewsandiegoareahomes.com'
-  CTA_2_txt: Home Search
+  first_CTA_textt: Home Evaluation
+  first_CTA_URL: 'http://www.chulahomevalue.com/'
+  second_CTA_text: Home Search
+  second_CTA_URL: 'http://www.viewsandiegoareahomes.com'
   VR_form:
 
 socials:
