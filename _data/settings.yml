@@ -1,16 +1,27 @@
 title: Dean Aguilar Group Real Estate Video Blog
 description: There is no such thing as a sad unicorn.
-
 custom_links:
   - title: '#'
     url: '#'
+about_markdown: >-
+  This top 1 % real estate team has over 45 years of family experience in the San
+  Diego market. The Dean Aguilar Group is a high performing team comprised of San
+  Diegans—born, bred, and raised. From North County’s scenic hills and beautiful
+  beaches to the South Bay’s cultural diversity, the Dean Aguilar Group knows
+  this county and wants to share it with you.
 
-about_markdown:  'This top 1 % real estate team has over 45 years of family experience in the San Diego market. The Dean Aguilar Group is a high performing team comprised of San Diegans—born, bred, and raised. From North County’s scenic hills and beautiful beaches to the South Bay’s cultural diversity, the Dean Aguilar Group knows this county and wants to share it with you.
-<br><br>
-The team’s ultimate vision is to allow clients to experience properties at their own convenience with up-to-the-minute accuracy while uniquely understanding and appreciating their clients’ real estate needs.
-<br><br>
-Given the innumerable moving parts in a real estate transaction, clients can depend on the Dean Aguilar Group to do all of the legwork. Their vetted service partners will ensure that clients’ listings shine, inspections are honest, and settlements are smooth.'
+  <br>
 
+  <br>The team’s ultimate vision is to allow clients to experience properties at
+  their own convenience with up-to-the-minute accuracy while uniquely
+  understanding and appreciating their clients’ real estate needs.
+
+  <br>
+
+  <br>Given the innumerable moving parts in a real estate transaction, clients
+  can depend on the Dean Aguilar Group to do all of the legwork. Their vetted
+  service partners will ensure that clients’ listings shine, inspections are
+  honest, and settlements are smooth.
 client:
   market: San Diego County
   name: Dean Aguilar
@@ -25,7 +36,6 @@ client:
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.viewsandiegoareahomes.com'
   VR_form:
-
 socials:
   facebook: 'http://facebook.com'
   linkedin: 'http://linked.com'
@@ -38,7 +48,6 @@ socials:
   trulia: 'http://trulia.com'
   yelp: 'http://yelp.com'
   podcast: 'http://#.com'
-
 podcast:
   title: Dean Aguilar Group Real Estate Podcast
   categories:
@@ -56,11 +65,9 @@ images:
   hero_text: Real Estate Video Blog
   hero_background_hex: '#4f7588'
   client_headshot_path: /img/dean-square.png
-
-testimonials: true
-
+testimonials: false
 brand_hex: '#4f7588'
 theme_text_color: '#353535'
 theme_color: '#ffffff'
 fontcolor_hex: '#353535'
-testimonial_font_color: '#fff'
+testimonial_font_color: '#ffffff'
