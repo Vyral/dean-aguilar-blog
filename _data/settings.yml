@@ -1,8 +1,8 @@
 title: Dean Aguilar Group Real Estate Video Blog
 description: There is no such thing as a sad unicorn.
 
+show_custom_links: false
 custom_links:
-  show_custom_links: false
   - title: '#'
     url: '#'
 about_markdown: >-
