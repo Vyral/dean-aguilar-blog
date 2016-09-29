@@ -7,7 +7,7 @@
 		  		<a class="testimonial-btn next"><i class="fa fa-arrow-right"></i></a>
 				</div>
 				<div id="owl-carousel" class="owl-carousel">
-		      {% for item in site.data.testimonials %}
+		      {% for item in site.data.testimonials.testimonial %}
 						<div class="item-container">
 							<div class="item">
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>'}}

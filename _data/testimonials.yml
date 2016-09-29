@@ -1,4 +1,5 @@
 testimonials: false
-- quote: 'Hello'
-  name: 'Brent'
-  audio: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
+testimonial:
+  - quote: 'Hello'
+    name: 'Brent'
+    audio: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
