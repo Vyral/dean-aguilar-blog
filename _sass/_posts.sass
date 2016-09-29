@@ -4,6 +4,8 @@
   border-radius: 9px 9px 0 0
   @include shadow
 
+.post-container
+  padding-right: 20px
 .pad
   padding: 0 2rem
 
@@ -11,8 +13,12 @@
   li
     display: inline
 
-.post-title
+.post-overview-title
   font-size: 3rem
+  text-align: left
+
+.post-title
+  font-size: 5rem
   text-align: left
 
 .post-image
@@ -235,3 +241,6 @@
       margin: 1.5rem
     .headshot
       display: none
+@media (max-width: 992px)
+  .post-container
+    padding-right: 0px

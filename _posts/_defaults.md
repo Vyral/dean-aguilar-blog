@@ -1,7 +1,6 @@
 ---
 layout: post
 title:
-category:
 tags:
   - Market Update
   - Real Estate
@@ -12,8 +11,9 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-image: http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg
-thumbnail: http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg
+#insert the 11 digit youtube code (ex: http://youtu.be/IQW5R5nlAAE or https://www.youtube.com/watch?v=uieM18rZdHY = uieM18rZdHY)
+youtube_code: uieM18rZdHY
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{post.youtube_code}}" frameborder="0" allowfullscreen></iframe>
 
-<a href="https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}" target='_blank' class="pullquote">&#8220;{{page.pullquote}}&#8221;</a>
+{% include pullquote.html %}

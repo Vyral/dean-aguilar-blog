@@ -1252,7 +1252,7 @@ html[xmlns] .flexslider .slides {
   border: none;
   border-radius: 0;
   min-height: 65px;
-  background: #fff;
+  background: #ffffff;
   width: 100%;
   overflow: hidden; }
   .navbar-andross .cta {
@@ -1342,7 +1342,7 @@ html[xmlns] .flexslider .slides {
 
 @media(max-width: 347px) {
   .navbar-header a.navbar-brand {
-    color: #fff; } }
+    color: #ffffff; } }
 .catbloc li {
   font-size: 20px;
   color: #4F7588;
@@ -1355,7 +1355,7 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 12rem; }
+  padding-top: 10rem; }
 
 #hero {
   background-position: center;
@@ -1429,7 +1429,7 @@ body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   color: #353535;
   margin: 0;
-  background: #fff; }
+  background: #ffffff; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
@@ -1586,14 +1586,21 @@ table tr, table td {
   border-radius: 9px 9px 0 0;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
 
+.post-container {
+  padding-right: 20px; }
+
 .pad {
   padding: 0 2rem; }
 
 .post-list li {
   display: inline; }
 
-.post-title {
+.post-overview-title {
   font-size: 3rem;
+  text-align: left; }
+
+.post-title {
+  font-size: 5rem;
   text-align: left; }
 
 .post-image {
@@ -1797,6 +1804,9 @@ table tr, table td {
     margin: 1.5rem; }
   .post .headshot {
     display: none; } }
+@media (max-width: 992px) {
+  .post-container {
+    padding-right: 0px; } }
 .socials {
   padding: 0.7rem;
   margin-bottom: 0.7rem; }
@@ -1809,8 +1819,8 @@ table tr, table td {
       display: inline-block; }
   .socials svg {
     fill: #4F7588;
-    height: 4rem;
-    width: 4rem;
+    height: 3.5rem;
+    width: 3.5rem;
     border-radius: 50%;
     -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
@@ -1860,12 +1870,12 @@ table tr, table td {
 
 @media (max-width: 1450px) {
   .socials svg {
-    height: 4rem;
-    width: 4rem; } }
-@media (max-width: 1000px) {
-  .socials svg {
     height: 3rem;
-    width: 3rem; }
+    width: 3rem; } }
+@media (max-width: 1255px) {
+  .socials svg {
+    height: 2.7rem;
+    width: 2.7rem; }
 
   .footer-socials .socials svg {
     height: 2.4rem;
