@@ -5,26 +5,27 @@ show_custom_links: false
 custom_links:
   - title: '#'
     url: '#'
-about_markdown: >-
-  This top 1 % real estate team has over 45 years of family experience in the San
-  Diego market. The Dean Aguilar Group is a high performing team comprised of San
-  Diegans—born, bred, and raised. From North County’s scenic hills and beautiful
-  beaches to the South Bay’s cultural diversity, the Dean Aguilar Group knows
-  this county and wants to share it with you.
 
-  <br>
-
-  <br>The team’s ultimate vision is to allow clients to experience properties at
-  their own convenience with up-to-the-minute accuracy while uniquely
-  understanding and appreciating their clients’ real estate needs.
-
-  <br>
-
-  <br>Given the innumerable moving parts in a real estate transaction, clients
-  can depend on the Dean Aguilar Group to do all of the legwork. Their vetted
-  service partners will ensure that clients’ listings shine, inspections are
-  honest, and settlements are smooth.
 client:
+  about_markdown: >-
+    This top 1 % real estate team has over 45 years of family experience in the San
+    Diego market. The Dean Aguilar Group is a high performing team comprised of San
+    Diegans—born, bred, and raised. From North County’s scenic hills and beautiful
+    beaches to the South Bay’s cultural diversity, the Dean Aguilar Group knows
+    this county and wants to share it with you.
+
+    <br>
+
+    <br>The team’s ultimate vision is to allow clients to experience properties at
+    their own convenience with up-to-the-minute accuracy while uniquely
+    understanding and appreciating their clients’ real estate needs.
+
+    <br>
+
+    <br>Given the innumerable moving parts in a real estate transaction, clients
+    can depend on the Dean Aguilar Group to do all of the legwork. Their vetted
+    service partners will ensure that clients’ listings shine, inspections are
+    honest, and settlements are smooth.
   market: San Diego County
   name: Dean Aguilar
   brand: Dean Aguilar Group
@@ -60,7 +61,6 @@ podcast:
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: Dean Aguilar
 review_sm_icons: false
-audit_header: false
 images:
   hero_image_path: /img/blog_background.jpg
   hero_logo_path: /img/Dean-logo.png
