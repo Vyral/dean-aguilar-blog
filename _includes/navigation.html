@@ -17,17 +17,17 @@
 		<li><a href="#contact" id="contact">Contact</a></li>
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
-			{% if site.data.settings.client.homeeval != '#' %}
+			{% if site.data.settings.client.CTA_1 != '#' %}
 			<li>
-				<a class="cta" href="{{site.data.settings.client.homeeval}}">
-					{{site.data.settings.client.homeeval_txt}}
+				<a class="cta" href="{{site.data.settings.client.CTA_1}}">
+					{{site.data.settings.client.CTA_1_txt}}
 				</a>
 			</li>
 			{% endif %}
-			{% if site.data.settings.client.homesearch != '#' %}
+			{% if site.data.settings.client.CTA_2 != '#' %}
 			<li>
-				<a class="cta2" href="{{site.data.settings.client.homesearch}}">
-					{{site.data.settings.client.homesearch_txt}}
+				<a class="cta2" href="{{site.data.settings.client.CTA_2}}">
+					{{site.data.settings.client.CTA_2_txt}}
 				</a>
 			</li>
 			{% endif %}

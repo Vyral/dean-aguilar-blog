@@ -1,5 +1,5 @@
 <div class="testimonial-area">
-		{% if site.data.testimonials.testimonials.quote != '#' %}
+		{% if site.data.settings.testimonials == true %}
 			<div class="testimonial-container">
 				<div class="testimonial-navigation">
 		  		<a class="testimonial-btn prev"><i class="fa fa-arrow-left"></i></a>
@@ -7,7 +7,7 @@
 		  		<a class="testimonial-btn next"><i class="fa fa-arrow-right"></i></a>
 				</div>
 				<div id="owl-carousel" class="owl-carousel">
-		      {% for item in site.data.testimonials.testimonials %}
+		      {% for item in site.data.testimonials %}
 						<div class="item-container">
 							<div class="item">
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>'}}

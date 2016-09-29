@@ -1,4 +1,3 @@
-testimonials:
-  - quote: '#'
-    name: '#'
-    audio: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
+- quote: 'Hello'
+  name: 'Brent'
+  audio: 'https://s3.amazonaws.com/vyralmarketing/vyral-marketing/12+Love.mp3'
