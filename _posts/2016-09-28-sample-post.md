@@ -8,7 +8,7 @@ tags:
   - Home Seller Tips
 excerpt: 'Lorem ipsum dolor sit amet, libris labore deserunt est ex, augue voluptaria omittantur vim eu. Adipisci reprimique in eos. Vis eu lorem partem. Sit rebum nemore te, at omnes saepe pri. Et quod alii timeam sit.'
 enclosure:
-pullquote: 'Andross, the Final Boss'
+pullquote: 'This is an example of a pull quote!'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_code: true
