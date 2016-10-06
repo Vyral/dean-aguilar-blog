@@ -1,23 +1,21 @@
 title: Dean Aguilar Group Real Estate Video Blog
 description: There is no such thing as a sad unicorn.
-
 show_custom_links: false
 custom_links:
   - title: '#'
     url: '#'
-
 client:
   about_markdown: >-
-    This top 1 % real estate team has over 45 years of family experience in the San
-    Diego market. The Dean Aguilar Group is a high performing team comprised of San
-    Diegans—born, bred, and raised. From North County’s scenic hills and beautiful
-    beaches to the South Bay’s cultural diversity, the Dean Aguilar Group knows
-    this county and wants to share it with you.
+    This top 1 % real estate team has over 45 years of family experience in the
+    San Diego market. The Dean Aguilar Group is a high performing team comprised
+    of San Diegans—born, bred, and raised. From North County’s scenic hills and
+    beautiful beaches to the South Bay’s cultural diversity, the Dean Aguilar
+    Group knows this county and wants to share it with you.
 
     <br>
 
-    <br>The team’s ultimate vision is to allow clients to experience properties at
-    their own convenience with up-to-the-minute accuracy while uniquely
+    <br>The team’s ultimate vision is to allow clients to experience properties
+    at their own convenience with up-to-the-minute accuracy while uniquely
     understanding and appreciating their clients’ real estate needs.
 
     <br>
@@ -40,21 +38,20 @@ client:
   second_CTA_URL: 'http://www.viewsandiegoareahomes.com'
   VR_form:
 socials:
-  facebook_url: 'http://facebook.com'
-  linkedin_url: 'http://linked.com'
-  gplus_url: 'http://plus.google.com'
-  youtube_url: 'http://youtube.com'
-  twitter_url: 'http://twitter.com'
+  facebook_url: 'https://www.facebook.com/Dean-Aguilar-Group-189368094749376/?fref=ts'
+  linkedin_url: 'https://www.linkedin.com/company/dean-aguilar-group'
+  gplus_url: 'https://plus.google.com/105681352367366330854'
+  youtube_url: 'https://www.youtube.com/channel/UCr6TCX7Ek8T2Bbf7-CdcLuw'
+  twitter_url: 'https://twitter.com/deanaguilargrp'
   instagram_url: '#'
   pinterest_url: '#'
-  zillow_url: 'http://zillow.com'
-  trulia_url: 'http://trulia.com'
-  yelp_url: 'http://yelp.com'
-  podcast_url: ''
+  zillow_url: 'http://www.zillow.com/profile/dean692/'
+  trulia_url: 'https://www.trulia.com/profile/dean-aguilar-agent-san-diego-ca-zgpdm1ck/overview'
+  yelp_url: 'http://yelp.comhttps://www.yelp.com/biz/dean-aguilar-group-san-diego-2'
+  podcast_url:
 podcast:
   title: Dean Aguilar Group Real Estate Podcast
   categories:
-    - category: 'News &amp; Politics'
   image:
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dean Aguilar Group - your professional San Diego Real Estate Agents.'
