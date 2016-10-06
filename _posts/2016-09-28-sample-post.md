@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: 'Lorem ipsum dolor sit amet, libris labore deserunt est ex, augue voluptaria omittantur vim eu. Adipisci reprimique in eos. Vis eu lorem partem. Sit rebum nemore te, at omnes saepe pri. Et quod alii timeam sit.'
 enclosure:
 pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
