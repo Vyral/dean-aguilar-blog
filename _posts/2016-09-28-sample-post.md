@@ -17,9 +17,7 @@ youtube_alt_image: 'http://vignette1.wikia.nocookie.net/scratchpad/images/7/71/A
 ---
 
 
-{% include youtube.html %}
-
-Lorem ipsum dolor sit amet, libris labore deserunt est ex, augue voluptaria omittantur vim eu. Adipisci reprimique in eos. Vis eu lorem partem. Sit rebum nemore te, at omnes saepe pri. Et quod alii timeam sit.
+{% include youtube.html %} Lorem ipsum dolor sit amet, libris labore deserunt est ex, augue voluptaria omittantur vim eu. Adipisci reprimique in eos. Vis eu lorem partem. Sit rebum nemore te, at omnes saepe pri. Et quod alii timeam sit.
 
 Sed aeque concludaturque ne. Ea vix dolorum percipit, dicta inimicus vis ne. Inani eruditi ad vis, te quo odio putant prompta. Mea cu posse verear perpetua, sit ad aliquando consetetur necessitatibus. Dolorum adversarium instructior qui ad, pri eius utinam libris te, persius instructior te ius.
 
