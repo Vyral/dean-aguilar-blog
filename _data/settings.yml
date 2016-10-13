@@ -26,7 +26,7 @@ client:
     honest, and settlements are smooth.
   market: San Diego County
   name: Dean Aguilar
-  license_number: 
+  license_number:
   brand: Dean Aguilar Group
   brokerage: '#'
   address: '1450 Frazee Rd. Suite 210<br>San Diego, CA 92108'
@@ -34,7 +34,7 @@ client:
   email: dean@deanaguilargroup.com
   url: www.deanaguilargroup.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: 'http://www.chulahomevalue.com/'
+  first_CTA_URL: 'http://www.viewsandiegoareahomes.com/homevalue/sandiego'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.viewsandiegoareahomes.com'
   VR_form:
