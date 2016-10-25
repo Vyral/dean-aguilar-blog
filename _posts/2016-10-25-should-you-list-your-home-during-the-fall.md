@@ -12,7 +12,7 @@ youtube_code: cYT5Y2tLaBU
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{post.youtube_code}}" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cYT5Y2tLaBU" frameborder="0" allowfullscreen=""></iframe>
 
 If you’re thinking about listing your home and are worried that summer selling season is over, I have some good news for you—the fall is actually a great time to list your home. Why is this? Here are my top four reasons:
 <br>&nbsp;
