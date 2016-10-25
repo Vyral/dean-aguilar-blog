@@ -8,7 +8,7 @@ enclosure:
 pullquote: Low inventory and high demand make fall a great time to sell.
 enclosure_type: video/mp4
 enclosure_time:
-youtube_code: 'https://youtu.be/cYT5Y2tLaBU'
+youtube_code: cYT5Y2tLaBU
 ---
 
 
