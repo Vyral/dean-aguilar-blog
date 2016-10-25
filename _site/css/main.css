@@ -1425,11 +1425,100 @@ html {
   background: #4f7588;
   color: white; }
 
+.site-logo, h1.site-title {
+  -webkit-animation: 1s ease-in-out fadein;
+          animation: 1s ease-in-out fadein; }
+
+.content-container, .post-container {
+  -webkit-animation: 1s ease-in-out slideup;
+          animation: 1s ease-in-out slideup; }
+
+nav {
+  -webkit-animation: 1s ease-in-out slidedown;
+          animation: 1s ease-in-out slidedown; }
+
+.sidebar {
+  -webkit-animation: 1s ease-in-out slideup;
+          animation: 1s ease-in-out slideup; }
+
+nav.socials {
+  -webkit-animation: 1s ease-in-out slideup;
+          animation: 1s ease-in-out slideup; }
+
+@-webkit-keyframes slideup {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+    -webkit-transform: translateY(40px);
+    -ms-transform: translateY(40px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px); } }
+
+@keyframes slideup {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+    -webkit-transform: translateY(40px);
+    -ms-transform: translateY(40px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px); } }
+@-webkit-keyframes slidedown {
+  0% {
+    opacity: 0;
+    transform: translateY(-40px);
+    -webkit-transform: translateY(-40px);
+    -ms-transform: translateY(-40px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px); } }
+@keyframes slidedown {
+  0% {
+    opacity: 0;
+    transform: translateY(-40px);
+    -webkit-transform: translateY(-40px);
+    -ms-transform: translateY(-40px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px); } }
+@-webkit-keyframes fadein {
+  0% {
+    transform: scale(1.01);
+    -webkit-transform: scale(1.01);
+    -ms-transform: scale(1.01);
+    opacity: 0; }
+  100% {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    opacity: 1; } }
+@keyframes fadein {
+  0% {
+    transform: scale(1.01);
+    -webkit-transform: scale(1.01);
+    -ms-transform: scale(1.01);
+    opacity: 0; }
+  100% {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    opacity: 1; } }
 body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   color: #353535;
   margin: 0;
-  background: #ffffff; }
+  background: #ffffff;
+  -webkit-animation: 1s ease-in-out fadein;
+          animation: 1s ease-in-out fadein; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
@@ -2074,12 +2163,31 @@ table tr, table td {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
   color: #353535; }
 
+.item-hide {
+  display: none; }
+
+.expand {
+  color: #4f7588;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer; }
+
 .item {
   position: relative;
-  padding: 3rem 3rem;
+  padding: 3rem;
   height: 100%;
+  min-height: 430px;
   background: #fff;
-  border-radius: 8px; }
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
 
 .timekeeper {
   float: left;
@@ -2088,8 +2196,10 @@ table tr, table td {
   bottom: 10px; }
 
 .testimonial-audio {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
   border: 0;
-  position: relative; }
+  margin-bottom: -50px; }
   .testimonial-audio p {
     padding: 0px;
     position: relative;
@@ -2106,10 +2216,13 @@ table tr, table td {
 .testimonial {
   font-size: 1.8rem;
   font-family: serif;
-  font-style: italic; }
+  font-style: italic;
+  padding-bottom: 0; }
 
 .testimonial-attribute {
-  font-weight: bold; }
+  font-weight: bold;
+  -ms-flex-item-align: start;
+      align-self: flex-start; }
 
 .testimonial-container {
   background: #f2f2f2;

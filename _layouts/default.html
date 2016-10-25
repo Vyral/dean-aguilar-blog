@@ -4,6 +4,9 @@
 {% include head.html %}
 
 	<body>
+		{% if site.data.settings.audit_header == true %}
+			{% include audit.html %}
+		{% endif %}
 		{% include header.html %}
 		<div class="container-fluid">
 			<div class="row">
@@ -13,8 +16,8 @@
 					{% include contact-modal.html %}
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-sm-12 visible-xs visible-sm">
+			<div class="row ">
+				<div class="col-sm-12 visible-xs visible-sm sidebar">
 					{% include socials.html %}
 					{% include search-box.html %}
 				</div>
@@ -27,7 +30,7 @@
 
 			<!-- Sidebar Content // Hidden on mobile -->
 
-				<div class="col-md-5 col-lg-4 hidden-sm hidden-xs">
+				<div class="col-md-5 col-lg-4 hidden-sm hidden-xs sidebar">
 					{% include socials.html %}
 					{% include search-box.html %}
 					{% include about.html %}
