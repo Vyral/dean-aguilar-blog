@@ -37,7 +37,7 @@ client:
   first_CTA_URL: 'http://www.viewsandiegoareahomes.com/homevalue/sandiego'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.viewsandiegoareahomes.com'
-  VR_form:
+  VR_form: 'http://oi.vresp.com?fid=ea7947b369'
 socials:
   facebook_url: 'https://www.facebook.com/viewsandiegoareahomes/'
   linkedin_url: 'https://www.linkedin.com/in/dean-aguilar-67038657'
