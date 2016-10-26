@@ -13,7 +13,8 @@ layout: default
       <li>
         <div class="col-lg-6">
           <div class="post-excerpts">
-
+					<span class="post-meta">
+						{{ post.date | date: "%b %-d, %Y" }}</span>
 
 						<a href="{{post.url}}">
 	            {% if post.use_youtube_image == true %}
