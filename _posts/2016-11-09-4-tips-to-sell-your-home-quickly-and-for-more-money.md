@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: 'If you are thinking about selling your home for the first time, here are four tips to help you sell quickly and for top dollar.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dean+Aguilar/Videos/4+Tips+For+Sellers.mp4'
-pullquote: include pullquote.html
+pullquote: Buyers want to be able to visualize themselves in your home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
