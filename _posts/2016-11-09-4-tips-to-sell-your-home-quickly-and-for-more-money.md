@@ -4,7 +4,7 @@ title: 4 Tips to Sell Your Home Quickly and for More Money
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt:
+excerpt: 'If you are thinking about selling your home for the first time, here are four tips to help you sell quickly and for top dollar.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dean+Aguilar/Videos/4+Tips+For+Sellers.mp4'
 pullquote: include pullquote.html
 enclosure_type: video/mp4
@@ -16,6 +16,8 @@ youtube_code: epn4MxYHPz4
 
 
 {% include youtube.html %}
+
+*If you are thinking about selling your home for the first time, here are four tips to help you sell quickly and for top dollar.*
 
 If you’re a first-time home seller, there are a few things you should know before listing your home on the market. Here are my four tips to sell your home quickly and for more money:
 
