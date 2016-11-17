@@ -4,7 +4,7 @@ title: Should You List Your Home During the Fall?
 tags:
   - Home Seller Tips
 excerpt: 'If you’re wondering whether the fall is a good time to sell your home, I have some good news for you. Here are four reasons why fall is still a great time to sell.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dean+Aguilar/Videos/Should+You+List+Your+Home+During+the+Fall%253F+-+San+Diego+Real+Estate+Agent.mp4'
 pullquote: Low inventory and high demand make fall a great time to sell.
 enclosure_type: video/mp4
 enclosure_time:
