@@ -16,6 +16,8 @@ youtube_code: WB1V59ywFqg
 
 {% include youtube.html %}
 
+*If you’re wondering whether the fall is a good time to sell your home, I have some good news for you. Here are four reasons why fall is still a great time to sell.*
+
 If you’re thinking about listing your home and are worried that the summer selling season is over, I have some good news for you—the fall is actually a great time to list your home. Why is this? Here are my top four reasons:
 
 **1. Demand is strong.** With pending transactions up nearly 18% since last year, there are still a lot of buyers out there looking to buy homes. The low inventory levels in our area are creating more multiple offer situations, which is great news for you as a seller.
