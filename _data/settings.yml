@@ -6,24 +6,24 @@ custom_links:
     url: '#'
 client:
   about_markdown: >-
-    This top 1 % real estate team has over 45 years of family experience in the
-    San Diego market. The Dean Aguilar Group is a high performing team comprised
-    of San Diegans—born, bred, and raised. From North County’s scenic hills and
-    beautiful beaches to the South Bay’s cultural diversity, the Dean Aguilar
-    Group knows this county and wants to share it with you.
+      This top 1 % real estate team has over 45 years of family experience in the
+      San Diego market. The Dean Aguilar Group is a high performing team comprised
+      of San Diegans—born, bred, and raised. From North County’s scenic hills and
+      beautiful beaches to the South Bay’s cultural diversity, the Dean Aguilar
+      Group knows this county and wants to share it with you.
 
-    <br>
+      <br>
 
-    <br>The team’s ultimate vision is to allow clients to experience properties
-    at their own convenience with up-to-the-minute accuracy while uniquely
-    understanding and appreciating their clients’ real estate needs.
+      <br>The team’s ultimate vision is to allow clients to experience properties
+      at their own convenience with up-to-the-minute accuracy while uniquely
+      understanding and appreciating their clients’ real estate needs.
 
-    <br>
+      <br>
 
-    <br>Given the innumerable moving parts in a real estate transaction, clients
-    can depend on the Dean Aguilar Group to do all of the legwork. Their vetted
-    service partners will ensure that clients’ listings shine, inspections are
-    honest, and settlements are smooth.
+      <br>Given the innumerable moving parts in a real estate transaction, clients
+      can depend on the Dean Aguilar Group to do all of the legwork. Their vetted
+      service partners will ensure that clients’ listings shine, inspections are
+      honest, and settlements are smooth.
   market: San Diego County
   name: Dean Aguilar
   license_number:
@@ -38,6 +38,9 @@ client:
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.viewsandiegoareahomes.com'
   VR_form: 'http://oi.vresp.com?fid=ea7947b369'
+welcome_headline: Get Educated About Real Estate
+welcome_text_markdown: |
+  Our mission at the Dean Aguilar Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 socials:
   facebook_url: 'https://www.facebook.com/viewsandiegoareahomes/'
   linkedin_url: 'https://www.linkedin.com/in/dean-aguilar-67038657'
