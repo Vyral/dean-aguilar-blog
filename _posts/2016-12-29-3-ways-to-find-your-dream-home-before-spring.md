@@ -2,10 +2,8 @@
 layout: post
 title: 3 Ways to Find Your Dream Home Before Spring
 tags:
-  - Market Update
   - Real Estate
   - Home Buyer Tips
-  - Home Seller Tips
 excerpt: 'If you’re trying to find your dream home before spring, here are the best ways to make sure you find that hidden gem.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dean+Aguilar/Videos/3+Ways+to+Find+Your+Dream+Home+Before+Spring+-+San+Diego+Real+Estate+Agent.mp4'
 pullquote: You’ll be in a great position to find that hidden gem
