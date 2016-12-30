@@ -19,7 +19,7 @@ youtube_code: N5rF1y43Zuk
 
 The home buying process can be daunting, especially during the winter months. Luckily, I have three tips that will help ensure you find your dream home before spring.
 
-First, when searching for those hidden gems, you need to **use a website that is directly connected to the MLS.** Although Zillow and Trulia are useful for preliminary information, they are not linked to the MLS and therefore not in real time. In order for you to find homes quickly, you need a tool that is accurate and in real time.
+First, when searching for those hidden gems, you need to **use a website that is directly connected to the ML.**&nbsp;Although Zillow and Trulia are useful for preliminary information, they are not linked to the MLS, and therefore, not updated in real time. In order for you to find homes quickly, you need a tool that is accurate and updated in real time.
 
 {% include pullquote.html %}
 
