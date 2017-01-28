@@ -22,7 +22,9 @@ First, when searching for those hidden gems, you need to **use a website that is
 
 {% include pullquote.html %}
 
-Secondly, you can **approach for sale by owner properties, expired listings, and cancelled listings.** Expired listings are properties that were active on the market, but the contract with the agent is now expired, and cancelled listings usually come about when the owner simply gave up trying to sell.&nbsp;
+Secondly, you can **approach for sale by owner properties, expired listings, and canceled listings.** Expired listings are properties that were active on the market, but the contract with the agent is now expired, and canceled listings usually come about when the owner simply gave up trying to sell.&nbsp;
 
-The third thing you can do to get ahead of the game is\*\* gain access to pocket listings.\*\*Pocket listings are not going to be a part of the MLS because they are pre-market listings. If you have access to those, which you can gain by partnering with a good real estate team such as the Dean Aguilar Group, you’ll be in a great position to find that hidden gem. We also have relationships with other agents who have listings that are no longer in the MLS, so we have the ability to show you those properties as well.&nbsp;
+**The third thing you can do to get ahead of the game is&nbsp;****gain access to pocket listings.**Pocket listings are not going to be a part of the MLS because they are pre-market listings. If you have access to those, which you can gain by partnering with a good real estate team such as the Dean Aguilar Group, you’ll be in a great position to find that hidden gem. We also have relationships with other agents who have listings that are no longer in the MLS, so we have the ability to show you those properties as well.&nbsp;
+
+If you have any questions or are interested in buying or selling, please don't hesitate to reach out to us. We'd love to help!
 <br>&nbsp;
