@@ -20,7 +20,7 @@ I'm excited to share my recent appearance on "The American Dream" with you today
 
 You can see the entire segment in the video above.
 
-I got to start by sharing my story about how I was born just outside of Washington D.C. and worked there on the East Coast before the market downturn. That's when I moved out to the West Coast and started my family and planted roots.
+I got to start by sharing my story about how I was born just outside of Washington D.C. and worked there on the East Coast before the market downturn. That's when I moved out to the West Coast to join the rest of my family, and established roots with my wife and son.&nbsp;
 
 We also discussed the particular areas that my team operates in, like Rancho Bernardo, which is a family lifestyle area and has a great school system that’s one of the best in the country. However, it can get difficult. **In certain pockets of San Diego, areas with great school systems can have prices that are too high, especially for first-time homebuyers.** Rancho Bernardo has a good mix. You can get a condo in the mid to upper $300,000 range or go all the way up to homes priced $1 million or more.&nbsp;
 
