@@ -8,7 +8,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Dean+Aguilar/Videos/2017/3+W
 pullquote: You’ll be in a great position to find that hidden gem
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/deanaguilar-screenshot-tube-01-01-01-01-01-01-01.jpg
 youtube_code: N5rF1y43Zuk
 ---
