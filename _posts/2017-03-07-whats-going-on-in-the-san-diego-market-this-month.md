@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: FHscYzU5Eek
+youtube_code: tsKcRmkAG6E
 ---
 
 
@@ -18,11 +18,11 @@ youtube_code: FHscYzU5Eek
 
 What's going on in the San Diego market?
 
-Prices for homes have increased dramatically; 6.7% year over year, in fact. The year over year inventory levels of available homes is down 22.7% from this time last year, which has contributed to increasing prices.&nbsp;
+Prices for homes have increased dramatically; 6.7% year over year, in fact. The year over year inventory levels of available homes is down 22.7% from this time last year, which has contributed to increasing prices.
 
 We're also seeing a lot of multiple offer situations for homes. In fact, **we recently saw a home receive 12 offers** in a couple days. This trend could continue with inventory remaining low.
 
-We've definitely seen adjustments in the way people make offers on a home.&nbsp;
+We've definitely seen adjustments in the way people make offers on a home.
 
 Even when appraisers come in and knock down the agreed upon price, we're still seeing buyers come up with the difference in cash to move forward on a deal. They don't want to have to go back to the market and compete again, and this is also driving prices up. **When someone pays in cash above the appraisal price, it counts as a comparable sale in the area, causing prices to increase in the neighborhood.**
 
