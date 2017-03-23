@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Latest Appearance on “The American Dream”
+title: 'Supporting our Veterans on "The American Dream" Show'
 tags:
   - Real Estate
 excerpt: I made another appearance on “The American Dream” recently that I wanted to share with you.
@@ -16,7 +16,7 @@ youtube_code: wb82loX5U90
 
 {% include youtube.html %}
 
-You might remember when I made an appearance on “The American Dream"&nbsp;**[recently](http://deanaguilarrealestate.com/check-out-my-recent-appearance-on-the-american-dream.html)**. I’m excited to tell you that they had me back along with my friend Andy to talk about how we help members of the military.
+You might remember when I made an appearance on “The American Dream" **[recently](http://deanaguilarrealestate.com/check-out-my-recent-appearance-on-the-american-dream.html)**. I’m excited to tell you that they had me back along with my friend Andy to talk about how we help members of the military.
 
 We help a lot of first-time homebuyers who come from the armed services, and I’m glad we got to address it in this appearance.
 
