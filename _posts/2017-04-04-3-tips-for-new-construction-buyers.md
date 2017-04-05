@@ -24,7 +24,7 @@ You need a professional on your side who will do the same. They will be able to 
 
 {% include pullquote.html %}
 
-The next tip I have is to compare lenders. The builder and their agent will try to get you to work with their lender by offering you money off the purchase price or toward closing costs,** but they don’t tell you about the hidden fees they’ll hit you with and the true cost of the loan.** This is another thing a professional can help you with. They have done the homework and will be able to tell whether you are getting a good deal or not.
+The next tip I have is to compare lenders. The builder and their agent will try to get you to work with their lender by offering you money off the purchase price or toward closing costs,&nbsp;**but they don’t tell you about the hidden fees they’ll hit you with and the true cost of the loan.**&nbsp;This is another thing a professional can help you with. They have done the homework and will be able to tell whether you are getting a good deal or not.
 
 Finally, research the builder. Research their subcontractors if they have any, too. **See what people have to say about their homes online, whether it’s good or bad.** This is just another way to inform yourself so you’ll be protected when making such a large investment.
 
