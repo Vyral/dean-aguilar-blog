@@ -18,13 +18,13 @@ youtube_code: B6JAKhA_WR8
 
 Our team actually has some listings that haven't even hit the MLS yet that I wanted to share with you. **These three listings are getting ready to go live on the market in the first week of June.**
 
-The first is a gigantic corner lot property in [Lemon Grove?] on [Daryl Street?] with a huge backyard, a detached 2-car garage, and it's actually zoned for two structures. This home is fully remodeled and will go for between $450,000 and $475,000.
+The first is a gigantic corner lot property in Lemon Grove on Darryl Street with a huge backyard, a detached 2-car garage, and it's actually zoned for two structures. This home is fully remodeled and will go for between $450,000 and $475,000.
 
 {% include pullquote.html %}
 
-The second listing is a fully remodeled 3-bedroom, 2-bathroom house in [Claremont Mesa?]. It's about 1,300 square feet and is located in a cul-de-sac in the [mouth streets?] of [Claremont Mesa?]. It will be listed in the $625,000 to $645,000 range.&nbsp;
+The second listing is a fully remodeled 3-bedroom, 2-bathroom house in the Clairemont Mesa Area. It's about 1,300 square feet and is located in a cul-de-sac of Clairemont Mesa. It will be listed in the $625,000 to $645,000 range.&nbsp;
 
-Finally, the last property is a 4-bedroom, 2.5-bathroom home with just over 2,000 square feet in [Mirror Mesa?] on a cul-de-sac. The owners have invested almost $50,000 on backyard landscaping! This one will be listed in the $725,000 to $745,000 range.&nbsp;
+Finally, the last property is a 4-bedroom, 2.5-bathroom home with just over 2,000 square feet in Mira Mesa on a cul-de-sac. The owners have invested almost $50,000 on backyard landscaping! This one will be listed in the $725,000 to $745,000 range.&nbsp;
 
 If you or anyone you know is interested in any of these properties or has any questions about them, don't hesitate to send me an email or give me a call. I'd love to help you out!
 <br>&nbsp;
