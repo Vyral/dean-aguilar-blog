@@ -26,11 +26,11 @@ Beautiful weather, gorgeous real estate, and an active and healthy lifestyle are
 
 {% include pullquote.html %}
 <br>&nbsp;
-<br>I had known of Spark Health from an earlier visit many years ago that was very successful, but it wasn’t until I was more recently feeling rundown that I decided to try it again and receive their IV therapy. I took the immune system bag for wellness and whatever it was that was ailing him was gone within 24 hours. Now, I’m hooked on Spark Health.
+<br>I had known of Spark Health from an earlier visit many years ago that was very successful, but it wasn’t until I was more recently feeling run down that I decided to try it again and receive their IV therapy. I took the immune system bag for wellness and whatever it was that was ailing me was gone within 24 hours. Now, I’m hooked on Spark Health.
 <br>&nbsp;
 <br>**IV therapy uses all-natural vitamins, minerals, and amino acids and delivers them to your bloodstream** so your cells can use them immediately. That way you don’t have to deal with the digestive tract and different things being absorbed in different ways. This gives you a much better utilization absorption than taking supplements.&nbsp;
 <br>&nbsp;
-<br>**If you’re feeling rundown, you can come to them and get your own immune bag.** In order to have a custom bag created for you, you must be an established patient. To do this, you must meet with one of their doctors and have your entire health history reviewed so they know they can be safe and effective administering your IV therapy.&nbsp;
+<br>**If you’re feeling run down, you can come to them and get your own immune bag.** In order to have a custom bag created for you, you must be an established patient. To do this, you must meet with one of their doctors and have your entire health history reviewed so they know they can be safe and effective administering your IV therapy.&nbsp;
 <br>&nbsp;
 <br>For patients that aren’t quite established, they provide smaller IV bags or do vitamin injections. These treatments are very quick and usually last no longer than five minutes. Lindsey and I got our own quick treatment during our visit. As you can see in the video above, she’s feeling better already.&nbsp;
 <br>&nbsp;
