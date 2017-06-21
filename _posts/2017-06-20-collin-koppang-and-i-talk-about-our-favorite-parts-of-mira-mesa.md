@@ -16,7 +16,7 @@ youtube_code: iTdZKxlzhjY
 
 {% include youtube.html %}
 
-I recently made another appearance on "The American Dream," and **this time I brought along one of my young stars, top producer agent Collin Koppang.**
+I recently made another appearance on "The American Dream," and **this time I brought along one of my young stars: top producer agent Collin Koppang.**
 <br>
 <br>Collin actually just turned 25 and opted for a career in real estate over a career as a lawyer. "It's your career path, right?" Collin said on the show. "You have to go after what you're passionate about. I really love helping people and that's kind of what I stuck to."
 <br>
@@ -28,7 +28,7 @@ Collin also talked a bit about Mira Mesa and how this market has everything you 
 <br>
 <br>Collin said his favorite part about Mira Mesa is how unique all the homes are. You won't find cookie-cutter or tract homes there, according to Collin.
 <br>
-<br>We both talked a little bit about our favorite parts of San Diego as a whole.
+<br>Lastly, we both talked a little bit about our favorite parts of San Diego as a whole.
 <br>
 <br>Check out the video above to see our full appearance on the show.
 <br>
