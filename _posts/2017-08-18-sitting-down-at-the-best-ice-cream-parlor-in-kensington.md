@@ -24,7 +24,7 @@ youtube_code: S96sV0P-Yno
 On my latest appearance on “The American Dream,” we’re talking real estate and ice cream at Moosie’s Ice Cream with owner Matt Brody.
 {: .present-before-paste}
 
-I was introduced to Moosie’s last summer when I was visiting my brother, who just happens to live nearby it. Our kids were playing and when they wanted some ice cream, he recommended we go there, The line was huge, but it was well worth the wait. As it turned out, one of my agents actually knew Matt, which prompted me to get in touch with him.
+I was introduced to Moosie’s last summer when I was visiting my brother, who just happens to live nearby it. Our kids were playing and when they wanted some ice cream, he recommended we go there. The line was huge, but it was well worth the wait. As it turned out, one of my agents actually knew Matt, which prompted me to get in touch with him.
 {: .present-before-paste}
 
 Many people moving into Kensington work in the area Moosie’s is located in—Matt himself walks to Moosie’s every day. There are many eclectic shops in the surrounding neighborhood, which is part of this area’s unique appeal. **Moosie’s is a family friendly environment, and kids love it.**They switch out their flavors quite often, and their chocolate mousse sauce is Matt’s wife’s own recipe.
