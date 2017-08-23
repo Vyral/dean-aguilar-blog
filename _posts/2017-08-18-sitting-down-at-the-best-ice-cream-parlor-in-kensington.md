@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sitting Down at the Best Ice Cream Parlor in Kensington
+title: Sitting Down at the BEST Ice Cream Parlor in Kensington
 tags:
   - Ice Cream
   - Market Update
