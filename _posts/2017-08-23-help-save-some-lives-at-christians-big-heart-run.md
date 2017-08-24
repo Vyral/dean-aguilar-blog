@@ -31,7 +31,7 @@ Christian was an active athlete, and it’s easy to assume other active, seeming
 
 Will’s advice is simple: If you have kids, give them an EKG screening so the same tragedy doesn’t happen to you. Sudden cardiac arrest is the No. 1 cause of death among student athletes and the No. 2 cause of death for youths age 25 and under.
 
-This year’s Christian’s Big Heart Run is happening on August 27th at Rohr Park. All the funds that will be raised will be donated to the Eric Paredes Foundation, which goes to local high school and performs free EKGs. Last year, they did 4,026 EKGs and discovered 17 severe cases and 47 abnormalities. During these free screenings, there is a doctor on site to assist with any questions about applying for medical insurance.
+This year’s Christian’s Big Heart Run is happening on August 27th at Rohr Park. All the funds that will be raised will be donated to the Eric Paredes Foundation, which goes to local high schools and performs free EKGs. Last year, they did 4,026 EKGs and discovered 17 severe cases and 47 abnormalities. During these free screenings, there is a doctor on site to assist with any questions about applying for medical insurance.
 
 You’re more than welcome to come out and join us on August 27th. If you want to learn more about this fun-filled event or the Eric Paredes Foundation, visit **[Christiansbigheart.org](https://www.cristiansbigheart.org/)**.
 
