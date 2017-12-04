@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lifestyles San Diego Tastes Karina's Famous Ceviche
+title: Lifestyles San Diego with Karina Mexican Seafood
 tags:
   - Market Update
   - Real Estate
