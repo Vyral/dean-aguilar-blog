@@ -7,12 +7,12 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: '"We have 13 types of ceviche"'
-enclosure: 'https://www.youtube.com/watch?v=3W4gGmuP92I&feature=youtu.be'
+enclosure: 'https://youtu.be/3W4gGmuP92I'
 pullquote: '"My agents love the signature ceviche"'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: 'https://youtu.be/3W4gGmuP92I'
+youtube_alternate_image:
 youtube_code: >-
   <div style="position:relative;height:0;padding-bottom:56.21%"><iframe
   src="https://www.youtube.com/embed/3W4gGmuP92I?ecver=2"
