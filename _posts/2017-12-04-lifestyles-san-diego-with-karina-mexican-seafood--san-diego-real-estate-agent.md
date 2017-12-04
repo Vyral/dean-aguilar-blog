@@ -14,9 +14,11 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: >-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/3W4gGmuP92I" frameborder="0"
-  allowfullscreen></iframe>
+  <div style="position:relative;height:0;padding-bottom:56.21%"><iframe
+  src="https://www.youtube.com/embed/3W4gGmuP92I?ecver=2"
+  style="position:absolute;width:100%;height:100%;left:0" width="641"
+  height="360" frameborder="0" gesture="media" allow="encrypted-media"
+  allowfullscreen></iframe></div>
 ---
 
 
