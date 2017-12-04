@@ -12,16 +12,14 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: 'https://youtu.be/3W4gGmuP92I'
 youtube_code: 'https://youtu.be/3W4gGmuP92I'
 ---
 
 
 ##### **On my latest appearance on “Lifestyles,” I’m joined by one of the owners David from Karina’s Mexican Seafood**
 
-&nbsp;
-
-#### &nbsp;
+####
 
 <font><font face="Calibri">Have you ever been to the famous Karina Mexican Seafood? </font>D</font>
 
@@ -29,17 +27,17 @@ youtube_code: 'https://youtu.be/3W4gGmuP92I'
 
 > ##### “My agents absolutely love Karina Mexican Seafood”
 
-##### &nbsp;
+#####
 
-#### &nbsp;
+####
 
 <font face="Calibri">It was on September 16, 1981, in a small space in Spring Valley, when the late Don Arnulfo Contreras and his wife Mar&iacute;a In&eacute;s Curiel opened the first of many Karina&rsquo;s restaurants, named in honor of their daughter. A visionary and hard-working Don Arnulfo recognized the desire by many of his fellow immigrants for an authentic establishment offering traditional Mexican cuisine.</font>
 
 > ##### “Plan your next party at Karina’s”
 
-##### &nbsp;
+#####
 
-#### &nbsp;
+####
 
 <font face="Calibri">Simply entering a Karina&rsquo;s establishment can be a sensory overload.&nbsp; Images, color, music, exquisite aromas and warm hospitality are surrounded by traditional Mexican figures, art and culture. Read more about Karina's Mexican Seafood <a href="http://www.karinasseafood.com/menu">Here</a></font>
 
