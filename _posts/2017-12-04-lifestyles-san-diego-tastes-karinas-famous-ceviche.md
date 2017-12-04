@@ -9,7 +9,7 @@ tags:
 excerpt: '"We have 13 types of ceviche"'
 enclosure:
 pullquote: '"My agents love the signature ceviche"'
-enclosure_type:
+enclosure_type: youtube
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: 'https://youtu.be/3W4gGmuP92I'
