@@ -17,22 +17,30 @@ youtube_code: mvkGvCDtRo8&feature=youtu.be&t=10m11s
 ---
 
 
-###### On my latest appearance on “Lifestyles,” I’m joined by one of the owners David from Karina's Mexican Seafood
+##### **On my latest appearance on “Lifestyles,” I’m joined by one of the owners David from Karina’s Mexican Seafood**
 
-<font><font face="Calibri">Have you ever been to the famous Karina's Mexican Seafood? </font>D</font>
+&nbsp;
+
+#####
+
+<font><font face="Calibri">Have you ever been to the famous Karina Mexican Seafood? </font>D</font>
 
 <font face="Calibri">on Arnulfo, his wife and six children began 35 years ago what is now a collection of 5 popular restaurants located in Chula Vista, Bonita, National City, Encinitas and San Diego. Day after day legions of loyal customers partake in Karina&rsquo;s famous Mexican seafood specialties including traditional Shrimp &amp; Tuna Ceviches, Aguachile from Sinaloa, Shrimp Cocktails, Campechanas and Tostadas from the best and freshest seafood available, Huachinango Sarandeado, Siete Mares or their Tia Nacha Taquitos, all prepared with superior quality in mind.</font>
 
-> "My agents absolutely love Karina's Mexican Seafood"
+> ##### “My agents absolutely love Karina Mexican Seafood”
 
 ##### &nbsp;
+
+#####
 
 <font face="Calibri">It was on September 16, 1981, in a small space in Spring Valley, when the late Don Arnulfo Contreras and his wife Mar&iacute;a In&eacute;s Curiel opened the first of many Karina&rsquo;s restaurants, named in honor of their daughter. A visionary and hard-working Don Arnulfo recognized the desire by many of his fellow immigrants for an authentic establishment offering traditional Mexican cuisine.</font>
 
-> "Plan your next party at Karina's"
+> ##### “Plan your next party at Karina’s”
 
 ##### &nbsp;
 
+#####
+
 <font face="Calibri">Simply entering a Karina&rsquo;s establishment can be a sensory overload.&nbsp; Images, color, music, exquisite aromas and warm hospitality are surrounded by traditional Mexican figures, art and culture. Read more about Karina's Mexican Seafood <a href="http://www.karinasseafood.com/menu">Here</a></font>
 
-> "Karina's has a live band every Friday night!"
+> ##### “Karina’s has a live band every Friday night!”
