@@ -6,9 +6,9 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: '"We have 13 types of ceviche"'
 enclosure:
-pullquote:
+pullquote: '"My agents love the signature ceviche"'
 enclosure_type:
 enclosure_time:
 use_youtube_image: true
