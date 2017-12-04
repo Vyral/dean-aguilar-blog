@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Lifestyles San Diego Tastes Karina's Famous Ceviche
 tags:
   - Market Update
