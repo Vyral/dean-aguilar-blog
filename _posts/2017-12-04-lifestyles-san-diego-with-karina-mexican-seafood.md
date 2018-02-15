@@ -7,16 +7,16 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: '"We have 13 types of ceviche"'
-enclosure:
+enclosure: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/mvkGvCDtRo8?start=611" frameborder="0"
+  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 pullquote: '"My agents love the signature ceviche"'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: >-
-  <iframe width="854" height="480"
-  src="https://www.youtube.com/embed/3W4gGmuP92I" frameborder="0"
-  gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+youtube_code: mvkGvCDtRo8?
 ---
 
 ##### **On my latest appearance on “Lifestyles,” I’m joined by one of the owners David from Karina’s Mexican Seafood**
