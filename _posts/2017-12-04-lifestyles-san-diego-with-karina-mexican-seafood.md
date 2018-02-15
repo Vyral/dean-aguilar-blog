@@ -6,7 +6,11 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: '"We have 13 types of ceviche"'
+excerpt: >-
+  Day after day legions of loyal customers partake in Karina’s famous Mexican
+  seafood specialties including traditional Shrimp & Tuna Ceviches, Aguachile
+  from Sinaloa, Shrimp Cocktails, Campechanas and Tostadas from the best and
+  freshest seafood available.
 enclosure: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/mvkGvCDtRo8?start=611" frameborder="0"
