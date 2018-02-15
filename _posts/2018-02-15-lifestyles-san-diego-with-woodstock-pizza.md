@@ -16,7 +16,7 @@ enclosure: >-
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 pullquote: >-
   Talking Real Estate in the college area, we are finding that more and more
-  parents, by default, are become investors.
+  parents, by default, are becoming investors.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
