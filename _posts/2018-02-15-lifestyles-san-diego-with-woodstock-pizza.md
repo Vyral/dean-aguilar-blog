@@ -35,5 +35,3 @@ Located in the heart of college Area next to San Diego State, Woodstock pizza is
 Rents for two bedroom condos or homes start around $2000, averaging around $2300. Three, four or five bedroom homes can go as high as $4000 per month. Comparing the cost of living on campus and the benefit of owning and getting in-state tuition, parents are making an additional investment in their children and buying homes.
 
 If you have any other questions, please don’t hesitate to give me a call or send me an email. I’d be happy to speak with you.
-
-{% include youtube.html %}
