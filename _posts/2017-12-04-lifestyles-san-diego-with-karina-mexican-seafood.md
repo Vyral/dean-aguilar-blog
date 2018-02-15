@@ -41,5 +41,3 @@ youtube_code: mvkGvCDtRo8
 <font face="Calibri">Simply entering a Karina&rsquo;s establishment can be a sensory overload.&nbsp; Images, color, music, exquisite aromas and warm hospitality are surrounded by traditional Mexican figures, art and culture. Read more about Karina's Mexican Seafood <a href="http://www.karinasseafood.com/menu">Here</a></font>
 
 > ##### “Karina’s has a live band every Friday night!”
-
-{% include youtube.html %}
