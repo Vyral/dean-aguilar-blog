@@ -23,7 +23,9 @@ youtube_alternate_image:
 youtube_code: mvkGvCDtRo8?
 ---
 
-##### **On my latest appearance on “Lifestyles,” I’m joined by one of the owners David from Karina’s Mexican Seafood**
+##### **On my latest appearance on “Lifestyles,” I’m joined by one of the owners David from Karina’s Mexican Seafood.**
+
+{% include youtube.html %}
 
 <font>
 						<font face="Calibri">Have you ever been to the famous Karina Mexican Seafood? </font>D</font>
@@ -40,4 +42,4 @@ youtube_code: mvkGvCDtRo8?
 
 > ##### “Karina’s has a live band every Friday night!”
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3W4gGmuP92I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+{% include youtube.html %}
