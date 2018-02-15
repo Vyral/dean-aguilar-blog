@@ -6,6 +6,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
+  - San Diego State
 excerpt: >-
   In my latest appearance on Lifestyles San Diego, we visit Woodstock Pizza and
   talk renting, owning and investing in the neighborhood.
