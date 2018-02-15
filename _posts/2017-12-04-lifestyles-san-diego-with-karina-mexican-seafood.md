@@ -19,10 +19,10 @@ youtube_code: >-
   gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ---
 
-
 ##### **On my latest appearance on “Lifestyles,” I’m joined by one of the owners David from Karina’s Mexican Seafood**
 
-<font><font face="Calibri">Have you ever been to the famous Karina Mexican Seafood? </font>D</font>
+<font>
+						<font face="Calibri">Have you ever been to the famous Karina Mexican Seafood? </font>D</font>
 
 <font face="Calibri">on Arnulfo, his wife and six children began 35 years ago what is now a collection of 5 popular restaurants located in Chula Vista, Bonita, National City, Encinitas and San Diego. Day after day legions of loyal customers partake in Karina&rsquo;s famous Mexican seafood specialties including traditional Shrimp &amp; Tuna Ceviches, Aguachile from Sinaloa, Shrimp Cocktails, Campechanas and Tostadas from the best and freshest seafood available, Huachinango Sarandeado, Siete Mares or their Tia Nacha Taquitos, all prepared with superior quality in mind.</font>
 
@@ -36,4 +36,4 @@ youtube_code: >-
 
 > ##### “Karina’s has a live band every Friday night!”
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3W4gGmuP92I" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3W4gGmuP92I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
