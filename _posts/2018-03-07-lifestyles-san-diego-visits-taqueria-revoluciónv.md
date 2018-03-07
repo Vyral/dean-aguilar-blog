@@ -25,12 +25,12 @@ youtube_code: MoRe3qXx55s
 
 {% include youtube.html %}
 
-In my latest appearance on Lifestyles San Diego, we visit Taqueria Revoluciónv and talk the importance of having authentic food in the community.
+In my latest appearance on Lifestyles San Diego, we visit Taqueria Revoluci&oacute;nv and talk the importance of having authentic food in the community.
 
-Located in the heart of Chula Vista (with more locations across San Diego County), Taqueria Revoluciónv is a very popular choice for real Tijuana street tacos. Their menu is small, only offering 6 different types of tacos. Owner Emilio Tamez explains that if you are going to have a small menu, everything better be perfect. And wow, is it ever!  The Chula Vista community is right next to the border and still very affordable for buyers.
+Located in the heart of Chula Vista (with more locations across San Diego County), Taqueria Revoluci&oacute;nv is a very popular choice for real Tijuana street tacos. Their menu is small, only offering 6 different types of tacos. Owner Emilio Tamez explains that if you are going to have a small menu, everything better be perfect. And wow, is it ever! &nbsp;The Chula Vista community is right next to the border and still very affordable for buyers.
 
 {% include pullquote.html %}
 
-Being right by the border, it is important to have diverse authentic restaurant options. Owner Emilio Tamez explains, "We cook everything on a rotisserie, just like they do in Tijuana. Everything made daily, our first member comes at 1am to start cooking, meats are sourced from the US and never frozen".
+Being right by the border, it is important to have diverse authentic restaurant options. Owner Emilio Tamez explains, "We cook everything on a rotisserie, just like they do in Tijuana. Everything made daily, our first member comes at 1am to start cooking, meats are sourced from the US and never frozen".&nbsp;
 
 If you have any other questions, please don't hesitate to give me a call or send me an email. I'd be happy to speak with you.
