@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
-  In my lastest apparance on Lifestyles San Diego, we visit Taqueria Revoluciónv
+  In my lastest apparance on Lifestyles San Diego, we visit Taqueria Revolución
   and talk the importance of authentic restaurants in the community.
 enclosure: >-
   <iframe width="560" height="315"
